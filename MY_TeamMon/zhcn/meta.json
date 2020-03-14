@@ -1,7 +1,7 @@
 {
-  "name": "【长安】团员自用PVE数据请谨慎添加（20200315）",
+  "name": "【长安】团员自用PVE数据请谨慎添加（202003150101）",
   "author": "哲也",
-  "version": "20200315",
-  "data_url": "./data.jx3dat",
+  "version": "202003150101",
+  "data_url": "./TM-zhcn-20200315_01.01.jx3dat",
   "about": "../README.md"
 }
